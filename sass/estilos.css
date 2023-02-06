@@ -1,0 +1,12 @@
+/*misc*/ /*variables colors*/
+/*variables spacings*/
+/*variables fonts*/
+/*variables texts*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62, 5%;
+}
+
+/*mixins*/ /*modificaciones media queries*//*# sourceMappingURL=estilos.css.map */
