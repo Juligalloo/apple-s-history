@@ -3,4 +3,19 @@
 @import "./misc/variables";
 @import "./misc/reset";
 @import "./misc/mixins";
-@import "./misc/mediaqueries"
+@import "./misc/mediaqueries";
+
+/*partials*/
+
+@import "./partials/header";
+@import "./partials/footer";
+
+/*views*/
+
+@import "./views/index";
+@import "./views/nosotros";
+@import "./views/historia";
+@import "./views/productos";
+@import "./views/contacto"
+
+
